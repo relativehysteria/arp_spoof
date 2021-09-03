@@ -7,3 +7,5 @@ It sends a packet with a randomized MAC address to some destination.
 This doesn't do anything useful whatsoever, however I did find a persistent way
 to kick clients using [dhcpcd](https://roy.marples.name/projects/dhcpcd/) off
 the network with it ;).
+
+A lacking writeup can be found [here](WRITEUP.md).
